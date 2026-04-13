@@ -4,8 +4,8 @@
 
 ---
 
-> 💼 **Note:** My GitHub activity may appear sparse — I've spent the last 3.4 years
-> deeply focused on my company's private repositories at Taqtics, leading a 4-member 
+> 💼 **Note:** My GitHub activity may appear sparse — I've spent the last 4.7 years
+> deeply focused on my company's private repositories at Taqtics & Exalogic, leading a 4-member 
 > mobile team and shipping production-grade features daily. Most of my real work lives 
 > behind private repos. This profile is now being actively updated to reflect my 
 > skills and personal projects. Stay tuned! 🚀
