@@ -74,26 +74,7 @@
 
 ## 📌 Featured Projects
 
-### 🔐 [RN Auth Boilerplate](https://github.com/AvinashR98/rn-auth-boilerplate)
-> Enterprise-grade authentication starter kit
-- Azure AD SSO + ADFS federation
-- TOTP 2FA (Google Authenticator compatible)
-- Google Sign-In + OAuth 2.0 / OIDC
-- Token lifecycle management
 
-### 📱 [RN Performance Toolkit](https://github.com/AvinashR98/rn-performance-toolkit)
-> Best practices & patterns for high-performance React Native apps
-- Hermes engine setup & optimization
-- FlatList optimization patterns
-- React.memo + useCallback patterns
-- Cold start optimization techniques
-
-### 💰 [RN Expense Tracker](https://github.com/AvinashR98/rn-expense-tracker)
-> Personal finance tracker — my current side project
-- React Native + Firebase backend
-- RevenueCat subscription integration
-- Offline support
-- Clean architecture pattern
 
 ---
 
