@@ -1,6 +1,6 @@
 # Hi, I'm Avinash Rugwedi 👋
 
-### Senior React Native & MERN Full-Stack Developer | 5+ Years | Open to Remote
+### Senior React Native & MERN Full-Stack Developer | 5+ Years | Open to Remote/Hybrid
 
 ---
 
