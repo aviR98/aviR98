@@ -8,7 +8,7 @@
 > deeply focused on my company's private repositories at Taqtics & Exalogic, leading a 4-member 
 > mobile team and shipping production-grade features daily. Most of my real work lives 
 > behind private repos. This profile is now being actively updated to reflect my 
-> skills and personal projects. Stay tuned! 🚀
+> skills and personal projects.🚀
 
 ---
 
