@@ -20,7 +20,7 @@
 - ⚡ Maintained **99.7%+ crash-free rates** across Android & iOS (Crashlytics)
 - 🏗️ Shipped **React Native New Architecture** migration (v0.72 → v0.81) in 6 weeks
 - 🚀 Increased release cadence to **2x per week** using Fastlane CI/CD automation
-- 🌍 Based in Bengaluru, India | Open to **Remote Opportunities**
+- 🌍 Based in Bengaluru, India | Open to **Remote / Hybrid Opportunities**
 
 ---
 
